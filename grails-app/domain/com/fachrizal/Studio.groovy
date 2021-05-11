@@ -10,8 +10,8 @@ class Studio {
 
     static constraints = {
         name size: 4..40, blank: false, unique: true
-        headquarters size: 5..30, blank: false
-        founded size: 5..30, blank: false
+        headquarters size: 4..30, blank: false
+        founded size: 4..30, blank: false
         logo size: 5..255, blank: false
         website size: 5..30, blank: false
     }
