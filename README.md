@@ -3,3 +3,10 @@ This project is based on a [Grails Tutorial](https://www.djamware.com/post/5dee2
 
 **Credit**
 https://www.djamware.com/post/5dee230f730254515e53f7df/grails-4-tutorial-easy-to-build-crud-web-application
+
+**Screenshot** <br/>
+<img src="https://github.com/muhammad-fachrizal/watchlist-anime/blob/master/Screenshot/grails_1.png" width="50%" height="50%"> <br/>
+<img src="https://github.com/muhammad-fachrizal/watchlist-anime/blob/master/Screenshot/grails_4.png" width="50%" height="50%"> <br/>
+<img src="https://github.com/muhammad-fachrizal/watchlist-anime/blob/master/Screenshot/grails_5.png" width="50%" height="50%"> <br/>
+<img src="https://github.com/muhammad-fachrizal/watchlist-anime/blob/master/Screenshot/grails_7.png" width="50%" height="50%"> <br/>
+<img src="https://github.com/muhammad-fachrizal/watchlist-anime/blob/master/Screenshot/grails_8.png" width="50%" height="50%"> <br/>
